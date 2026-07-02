@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+
+
+.active{
+    color: rgb(35, 8, 240);
+
+}
+.toggle{
+    background-color: black;
+    color: white;
+}
